@@ -1,0 +1,43 @@
+body{
+    position:relative;
+    background:#6592CF;
+    display:grid;
+    place-items:center;
+    
+  }
+  .rect{
+    top: 100%;
+    display:grid;
+    place-items:center;
+    position:relative;
+    height: 200px;
+    width:300px;
+    background:#243D83;
+    overflow: hidden;
+
+  }
+  .lightblueC{
+    position:absolute;
+    height:250px;
+    width:250px;
+    border-radius:250px;
+    display:grid;
+    place-items:center;
+    background-color:#6592CF;
+  }
+  .darkblueC{
+    position:relative;
+    height:150px;
+    width:150px;
+    border-radius:150px;
+    background-color:#243D83;
+    display:grid;
+    place-items:center;
+  }
+  .yellowC{ 
+    position:relative;
+    height:50px;
+    width:50px;
+    border-radius:50px;
+    background:#EEB850;
+  }

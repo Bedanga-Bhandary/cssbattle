@@ -1,0 +1,40 @@
+    body{ 
+      background:#62306D;
+        
+      
+    }
+    .di{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        display: flex;
+         align-items: center;
+         justify-content: center;
+    }
+    .c {
+      top:20%;
+      position:relative;
+      width: 26%;
+      height: 25%;
+      background: #F7EC7D;
+      border-radius:  0% 0% 75% 75%;
+    }
+    .r {
+      top: -5%;
+     position:relative;
+      width: 26%;
+      height: 25%;
+      background: #F7D;
+      border-radius: 75% 75% 0% 0%;
+  
+    }
+    .l {
+
+      top:20%;
+      position:relative;
+       width: 26%;
+      height: 25%;
+      background: rgb(11, 3, 12);
+     border-radius:  0% 0% 75% 75%;
+  
+    }
